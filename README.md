@@ -4,7 +4,7 @@ Esta pasta reúne todos os meus projetos desenvolvidos em **Python**. Cada proje
 
 ## 📂 Projetos
 
-| Projeto | Descrição | Link |
+| Projeto | Título | Link |
 |---------|-----------|-------|
 | Projeto 1 | Crud Python | [Ver projeto](https://github.com/roxootiago/python/tree/fc8a08973f4b9c24f3f307361a466f7c4303710d/CRUD-com-Python) |
 | Projeto 2 | Estudos de Python | [Ver projeto](https://github.com/roxootiago/python/tree/fc8a08973f4b9c24f3f307361a466f7c4303710d/Estudos-de-Python) |
